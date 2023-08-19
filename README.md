@@ -16,7 +16,7 @@
 ```
 --- stand alone profile---
 ```
-./manageprofiles.sh -create -profileName sp3 -templatePath /opt/WAS/profileTemplates/default -enableAdminSecurity true -adminUserName wasadmin -adminPassword wasadmin -serverName s3     -nodeName Node03  -hostName host01 -cellName Cell03
+./manageprofiles.sh -create -profileName sp3 -templatePath /opt/IBM/WebSphere/AppServer/profileTemplates/default -enableAdminSecurity true -adminUserName wasadmin -adminPassword wasadmin -serverName s3     -nodeName Node03  -hostName host01 -cellName Cell03
 ```
 ------------------------------------------------------------------------------------
 nodejs
